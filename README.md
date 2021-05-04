@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I am:
+- 🎓 Comp Sci student at the 🇨🇦 University of Alberta, graduating in April 2021.
+- 🙇 Working on `React`
+- 🤝 Looking to collaborate on `JavaScript` & `Python` projects
+
+📫 How to reach me: wang17@ualberta.ca
+
+
+[![Yuan's github stats](https://github-readme-stats.vercel.app/api?username=konantian&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
