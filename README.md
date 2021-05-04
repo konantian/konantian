@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ### I am:
-- 🎓 Comp Sci student at the 🇨🇦 University of Alberta, graduating in April 2021.
+- 🎓 Comp Sci student at the 🇨🇦 University of Alberta, graduated in April 2021.
 - 🙇 Working on `React`
 - 🤝 Looking to collaborate on `JavaScript` & `Python` projects
 
