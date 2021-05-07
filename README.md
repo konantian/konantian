@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi  👋
 
 ![Followers](https://img.shields.io/github/followers/konantian?label=Followers&style=social)
 
