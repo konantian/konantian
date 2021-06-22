@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
-   <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-ar21.svg"></code>
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
