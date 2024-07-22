@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 
 
-📫 How to reach me: wang17@ualberta.ca
+📫 How to reach me: ywang.wang@mail.utoronto.ca
 
 
 ![Yuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=konantian&count_private=true&show_icons=true&theme=vue)
