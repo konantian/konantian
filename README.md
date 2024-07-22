@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 -->
 
 ### I am:
-- 🎓 Comp Sci student at the 🇨🇦 University of Alberta, graduated in April 2021.
+- 🎓 Computing Science student at the 🇨🇦 University of Alberta, graduated in April 2021.
+- 🎓 MENG ECE student at the 🇨🇦 University of Toronto, expect to graduate in April 2026.
 - 🙇 Working on `React`
 - 🤝 Looking to collaborate on `JavaScript` & `Python` projects
 
